@@ -1,4 +1,5 @@
 aiomysql==0.2.0
+aiosqlite==0.17.0
 Kivy==2.3.0
 Kivy_examples==2.3.0
 SQLAlchemy==2.0.15
